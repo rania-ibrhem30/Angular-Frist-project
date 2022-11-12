@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alfa+Slab+One&family=Carter+One&family=Caveat:wght@600&family=Kaushan+Script&family=Pacifico&family=Peralta&family=Playfair+Display:ital,wght@1,400;1,500&family=Poppins:wght@300;500&family=Raleway:wght@300&family=Righteous&family=Shadows+Into+Light&family=Source+Sans+Pro:wght@600&display=swap');
+
+
+
+h1{
+    font-weight: 700;
+    font-size: 3rem;
+    font-family: Patrick Hand,sans-serif;
+}
+.d-flex .line{
+        width: 100px;
+        height: 5px;
+        background-color:#2c3e50;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    
+}
+.container .row .col-md-4 {
+    position: relative;
+}
+.container .row .col-md-4 .layer-img{
+  background-color: #1abc9c;
+  top: 0;
+  left: 0;
+  height: 100%;
+ 
+
+}
+img{
+  cursor: pointer;
+}
+
+.modal .modal-dialog .modal-content .modal-footer button{
+  background-color: #1abc9c;
+  color: aliceblue;
+}
+ 

@@ -1,0 +1,48 @@
+.about{
+    background-color: #1abc9c;
+    height: 100vh;
+}
+.container .d-flex .line{
+  width: 100px;
+  height: 5px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ -ms-border-radius: 10px;
+ -o-border-radius: 10px;
+}
+h1{
+    color: aliceblue;
+    font-size: 3rem;
+    font-weight: 600;
+}
+p{
+    color: aliceblue;
+    line-height: 30px;
+    font-size: larger;
+}
+.bgFooter{
+    background-color: #2c3e50;
+  }
+  .border-icons{
+    border: white 1px solid;
+     justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+}
+.border-icons:hover{
+  background-color: aliceblue;
+  color: #2c3e50;
+}
+.contact .last{
+  background-color: #18232d;
+}
